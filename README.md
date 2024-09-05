@@ -62,4 +62,4 @@ Acest proiect este o aplicație pentru gestionarea unui sistem de închiriere ma
 6. **Restricționarea ștergerii mașinilor în anumite condiții**.
 
 
-Acest proiect combină mai multe aspecte importante ale unei aplicații de gestionare a datelor, cum ar fi integrarea bazei de date, utilizarea trigger-elor și procedurilor stocate pentru automatizarea sarcinilor.
+Procedurile din acest proiect au fost dezvoltate direct în SQL și gestionează operațiuni precum actualizări de date, modificări ale locației utilizatorilor și ștergeri de mașini. Aceste proceduri SQL sunt apelate din codul Java, asigurând o interacțiune eficientă între aplicația Java și baza de date, automatizând procesele și menținând logica de afaceri la nivelul bazei de date.
